@@ -1,4 +1,3 @@
-# mustafa-camurlu-kosarajus-algorithm
 # Kosaraju Algoritması
 
 **Kosaraju algoritması**, yönlendirilmiş bir grafikteki **güçlü bağlantı bileşenleri (SCC)** bulmak için kullanılan doğrusal zamanlı bir algoritmadır. İki ana aşamadan oluşur:
